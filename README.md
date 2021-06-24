@@ -2,7 +2,7 @@
 
 I'm a Full Stack Web Developer student.
 
-📫 You can reach me on<br>
+📫 You can contact me on<br>
 <br>
  <a href="https://www.linkedin.com/in/yuri-ikawa-b78227189/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:mbcrhc@gmail.com?subject=Came%20from%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
